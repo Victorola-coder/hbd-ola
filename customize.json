@@ -1,8 +1,8 @@
 {
   "greeting": "Hey",
-  "name": "Olamide❤",
+  "name": "Olamide ❤",
   "greetingText": "I really like you Fr!",
-  "wishText": "No matter how insulting you are, I will always love thy ;)",
+  "wishText": "No matter how insulting you are, I will always love thee ;)",
   "imagePath": "img/ola.jpg",
   "text1": "It's your birthday my dear",
   "textInChatBox": "Happy birthday to you!! Olamide! Many many happy blah blah...",
@@ -19,5 +19,5 @@
   "wishHeading": "Happy Birthday Olamide!",
   "outroText": "Okay, now come back and tell me if you liked it.",
   "replayText": "Or click, if you want to watch it again.",
-  "outroSmiley": "❤"
+  "outroSmiley": ":)"
 }
